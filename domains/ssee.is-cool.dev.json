@@ -1,0 +1,13 @@
+{
+    "description": "Personal portfolio website",
+    "domain": "is-cool.dev",
+    "subdomain": "ssee",
+    "owner": {
+        "repo": "https://github.com/sheh1000/wp",
+        "email": "sheh1000@mail.ru"
+    },
+    "record": {
+        "A": ["194.135.25.103"]
+    },
+    "proxied": false
+}
